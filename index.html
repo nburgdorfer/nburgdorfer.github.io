@@ -1,12 +1,13 @@
 ---
 layout: main
 ---
-<div>
-  <h1>Hello</h1>
-  <p>
-    test
-  </p>
-</div>
+<h1>About</h1>
+{% include_relative about.md %}
+
+<h1>Publications</h1>
+{% include_relative publications.md %}
+
+<h1>Projects</h1>
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}
