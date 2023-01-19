@@ -1,12 +1,12 @@
 title: Nathaniel Burgdorfer
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Nathaniel Burgdorfer
+  Computer Vision
+  Stevens Institute of Technology
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nburgdorfer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+url: "https://nburgdorfer.github.io"
+site-twitter:
 
 # Author Settings
 author: Nathaniel Burgdorfer
@@ -14,6 +14,7 @@ author-img: headshot.jpg
 about-author: Ph.D. Student | Computer Vision | Stevens Institute of Technology
 #social-twitter:
 #social-facebook:
+social-google-scholar: https://scholar.google.com/citations?user=9NjmhkYAAAAJ&hl=en
 social-github: nburgdorfer
 social-linkedin: nathaniel-Burgdorfer
 social-email: nburgdorfer@gmail.com
