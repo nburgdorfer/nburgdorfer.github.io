@@ -2,10 +2,10 @@
 layout: main
 ---
 <h1>About</h1>
-{% include about.html %}
+{% include_relative about.html %}
 
 <h1>Publications</h1>
-{% include publications.html %}
+{% include_relative publications.html %}
 
 <h1>Projects</h1>
 {% for post in paginator.posts %}
