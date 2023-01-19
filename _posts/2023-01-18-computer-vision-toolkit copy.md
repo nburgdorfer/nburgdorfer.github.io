@@ -2,7 +2,7 @@
 layout: post
 title: "Computer Vision Toolkit"
 date: 2023-01-18 17:10:28 +0000
-description:
+description: A collection of some useful (or maybe just interesting) computer vision tools.
 img: skull.gif
 ---
 <center><a href="https://github.com/nburgdorfer/vision_toolkit" target="_blank" class="btn">GitHub Repo</a></center>
