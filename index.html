@@ -2,14 +2,16 @@
 layout: main
 ---
 
-
+<a id="about">
 {% include_relative about.html %}
 
+<a id="news"></a>
 {% include_relative news.html %}
 
+<a id="publications"></a>
 {% include_relative publications.html %}
 
-
+<a id="projects"></a>
 <h1>Projects</h1>
 {% for post in paginator.posts %}
 <article class="post">
