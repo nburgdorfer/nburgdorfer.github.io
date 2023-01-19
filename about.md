@@ -12,7 +12,3 @@ I received my Bachelors in Computer Science from Stevens Institute of Technology
 * <b>[August 2022]</b> Paper accepted into AUV
 * <b>[September 2021]</b> Started PhD program @ SIT
 
-## Publications
-* Wang, W., Joshi, B., Burgdorfer, N., Batsos, K., Quattrini Li, A., Mordohai, P., Rekleitis, I.. <i><b>Real-Time Dense 3D Mapping of Underwater Environments</b></i>. IEEE International Conference on Robotics and Automation (ICRA), 2023.
-* Xanthidis, M., Joshi, B., Roznere, M., Wang, W., Burgdorfer, N., Quattrini Li, A., Mordohai, P., Nelakuditi, S., and Rekleitis, I.. [<b><i>Mapping of Underwater Structures by a Team of Autonomous Underwater Vehicles</i></b>](../assets/papers/xanthidis_2022_towards.pdf). International Symposium of Robotics Research (ISRR), 2022.
-* Joshi, B., Xanthidis, M., Roznere, M., Burgdorfer, N., Mordohai, P., Quattrini Li, A., and Rekleitis, I.. [<b><i>Underwater Exploration and Mapping</i></b>](../assets/papers/joshi_2022_underwater.pdf). IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), 2022.
