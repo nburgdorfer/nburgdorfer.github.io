@@ -12,14 +12,14 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Nathaniel Burgdorfer
 author-img: headshot.jpg
 about-author: Ph.D. Student | Computer Vision | Stevens Institute of Technology
-social-twitter:
-social-facebook:
+#social-twitter:
+#social-facebook:
 social-github: nburgdorfer
 social-linkedin: nathaniel-Burgdorfer
 social-email: nburgdorfer@gmail.com
 
 # Disqus
-discus-identifier: Nathaniel # add your discus identifier
+#discus-identifier: Nathaniel # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
