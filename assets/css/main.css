@@ -1369,7 +1369,7 @@ a.newer-posts:hover {
   width: 100px;
 }
 
-.navbar li a {
+.navbar ul li a {
   display: block;
 }
 
