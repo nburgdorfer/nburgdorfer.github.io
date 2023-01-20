@@ -197,13 +197,13 @@ a.newer-posts:hover {
   transform: translateX(-5px);
 }
 
-.navbar ul {
+ul.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 100px;
 }
 
-.navbar ul li a {
+ul.navbar li a {
   display: block;
 }
