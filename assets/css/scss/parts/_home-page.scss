@@ -196,3 +196,14 @@ a.older-posts:hover {
 a.newer-posts:hover {
   transform: translateX(-5px);
 }
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+}
+
+.navbar ul li a {
+  display: block;
+}
