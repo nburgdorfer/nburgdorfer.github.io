@@ -6,7 +6,7 @@ description: "Practical implementation of visual servoing techniques using a Pum
 img:
 ---
 
-<center><button onclick="../assets/files/Puma_560_Visual_Servoing.pdf" type="button">PDF</button></center>
+<center><a href="../assets/files/Puma_560_Visual_Servoing.pdf" target="_blank" class="btn">PDF</a></center>
 
 ## Supplementary Videos
 - [Simple Motion Profile](https://youtu.be/974xwARS644)

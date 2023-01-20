@@ -6,7 +6,7 @@ description: "A technical overview of several work in the centralized collaborat
 img:
 ---
 
-<center><button onclick="../assets/files/CCVSLAM_technical_overview.pdf" type="button">PDF</button></center>
+<center><a href="../assets/files/CCVSLAM_technical_overview.pdf" target="_blank" class="btn">PDF</a></center>
 
 # Abstract
 This work provides an overview on current state-of-the-art methods in Collaborative Visual SLAM. Several frameworks have been published regarding Collaborative Visual SLAM in which systems utilize multiple mobile robots or handheld devices with passive camera sensors in order to increase the robustness, speed, and overall quality of Simultaneous Localization and Mapping systems. In this review, we focus entirely on centralized visual monocular frameworks, with methods following a sparse, indirect, keyframe-based approach to SLAM.

@@ -6,4 +6,4 @@ description: "A technical overview of several work in sea ice monitoring using r
 img:
 ---
 
-<center><button onclick="../assets/files/burgdorfer_2022_towards.pdf" type="button">PDF</button></center>
+<center><a href="../assets/files/burgdorfer_2022_towards.pdf" target="_blank" class="btn">PDF</a></center>

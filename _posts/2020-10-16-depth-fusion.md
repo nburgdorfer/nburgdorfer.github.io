@@ -5,7 +5,7 @@ date: 2020-10-16 12:00:00 +0000
 description: "A CPU implementation of the confidence-based depth fusion algorithm for multi-view stereo."
 img:
 ---
-<center><button onclick="https://github.com/nburgdorfer/fusion" type="button">GitHub Repo</button></center>
+<center><a href="https://github.com/nburgdorfer/fusion" target="_blank" type="button">GitHub Repo</a></center>
 # Real-Time Visibility-Based Fusion of Depth Maps
 An independent implementation of the Confidence-Based fusion method as described by Paul Merrell et al. in the [paper](https://graphics.stanford.edu/%7Epmerrell/Merrell_DepthMapFusion07.pdf), 'Real-Time Visibility-Based Fusion of Depth Maps'.
 
